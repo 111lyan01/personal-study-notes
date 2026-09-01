@@ -14,3 +14,13 @@
 * First Congress led to a petition to the king (didn't work)
 * Second Congress led to talks about an Army
 * Thomas Paine's *Common Sense* argued for independence
+* Resolution of Indepdence was adopted by Second Continental Congress
+	* Usage is to prove America's political legitamacy to foreign eyes
+	* On July 4th the Declaration of Indepdence was ratified
+# Natural Rights
+* Idea of people having natural rights was a new concept at the time influenced by John Locke
+* Government is established through social contract, where the people agree to create the government
+# Republicanism
+* After Americans won their independence from the Treaty of Paris, some wanted a strong central government
+* **Republicans**, a forming group were against strong central government and opposed monarchy, executive, and authority.
+* Republicanism influenced the early colonies into states holding most unchecked power
