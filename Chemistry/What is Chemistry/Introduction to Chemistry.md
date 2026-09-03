@@ -22,6 +22,14 @@ Mixtures with a varied composition with mixed ratios across substances
 The building blocks of all matter, 118 (as of now) discovered on the periodic table
 ### Elemental Symbols
 Represented with one or two letters.
-
+### Atoms
+The smallest structural units of elements
+### Pure Substances Types
+**Elements:** Only one element
+**Compounds:** 2+ elements
+### Compounds
+A pure substance of 2+ elements (also a molecule)
+>[!INFO] Examples
+>
 ## Physical and Chemical Change
 ## Science
