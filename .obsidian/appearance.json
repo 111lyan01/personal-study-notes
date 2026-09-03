@@ -1,4 +1,7 @@
 {
   "cssTheme": "Tokyo Night",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Noto Sans",
+  "textFontFamily": "Noto Sans",
+  "monospaceFontFamily": "JetBrains Mono"
 }

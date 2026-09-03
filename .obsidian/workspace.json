@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Unit 2 - The Numerical Side of Chemistry/Rules for Significant Figures.md",
+                "file": "Other/Arch Linux Install Tutorial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rules for Significant Figures"
+              "title": "Arch Linux Install Tutorial"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Unit 2 - The Numerical Side of Chemistry/Rules for Significant Figures.md",
+                "file": "Other/Arch Linux Install Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,9 +190,11 @@
   },
   "active": "cee7bd3fffcd6e24",
   "lastOpenFiles": [
+    "Chemistry/Unit 2 - The Numerical Side of Chemistry/Rules for Significant Figures.md",
+    "Other/Arch Linux Install Tutorial.md",
+    "Other",
     "Chemistry/Unit 1 - What is Chemistry/Introduction to Chemistry.md",
     "Chemistry/Unit 2 - The Numerical Side of Chemistry/The Numerical Side of Chemistry.md",
-    "Chemistry/Unit 2 - The Numerical Side of Chemistry/Rules for Significant Figures.md",
     "Chemistry/Unit 2 - The Numerical Side of Chemistry/Metric Mania (Conversion Practice).md",
     "What Are The Symbols For The Elements?.md",
     "Untitled.base",
