@@ -12,10 +12,7 @@ In case I need to reinstall it
 1. Check to see if your computer has blocked networking 
    ```bash
    rfkill
-   ```
-   
-   If anything under the list says blocked
-   ```bash
+   # If anything says "blocked" unblocked them
    rfkill unblock all
    ```
 
@@ -36,19 +33,23 @@ In case I need to reinstall it
    device <name> set-property Powered on
    ```
    
-5. Check the wifi status
+5. Connect to the internet
    ```bash
+   # See your wifi devices
    station list 
-   ```
-   
-   If it does not say it's scanning,
-   ```bash
+   # If it does not say it's scanning run
    station <name> scan
+   # Search a network to connect to
+   station <name> get-networks
+   # Choose a network to connect to (you may need to enter the wifi password)
+   station <name> connect <network-name>
    ```
-
-4. Search for a network to connect to. Run `station <name> get-networks`.
-5. The previous command will output a list of networks. Choose one to connect to and connect with `station <name> connect <network-name>`. It may prompt you to enter the wifi password.
-6. Finally, exit out of iwctl by simply running `exit`. Check if you are connected by running `ping wikipedia.org`. If it says something like, `64 bytes from...` you are connected. Hit Ctrl + C to stop pinging.
+ 
+6. Finally, exit out of iwctl by simply running `exit`. Check if you are connected. 
+   ```bash
+   ping wikipedia.org
+   ``` 
+   If it says something like, `64 bytes from...` you are connected. Hit Ctrl + C to stop pinging.
 # Setup Partition
 1. Check the partitions on your computer. Run `lsblk` to view them. It should output a table of partitions and drives that the system can read. You want to use the drive of the computer and NOT the USB that the live environment is running in. The partition that the USB is using might look something like 
    ```
@@ -56,4 +57,57 @@ In case I need to reinstall it
      ├─ventoy
      └─sda1 
    ```
-2. Run `cfdisk`.
+   
+2. Run cfdisk.
+   ```bash
+   cfdisk /dev/<disk-to-partition>
+   ```
+
+3. Set the partition scheme to look like this:
+
+| Partition      | Size                         | Type               |
+| -------------- | ---------------------------- | ------------------ |
+| `/dev/<disk>1` | `1G`                         | `Linux Filesystem` |
+| `/dev/<disk>2` | `4G`                         | `Linux Filesystem` |
+| `/dev/<disk>3` | `<all remaining disk space>` | `Linux Filesystem` |
+4. Format the partitions. The first partition will be your boot partition. The second disk will be your swap and third will be your root partition.
+   ```bash
+   mkfs.ext4 /dev/<root-partition>
+   mkfs.fat -F 32 /dev/<boot-partition>
+   mkswap /dev/<swap-partition>
+   ```
+
+5. Mount the partitions.
+   ```bash
+   mount /dev/<root-partition> /mnt
+   mount --mkdir /dev/<boot-partition> /mnt/boot/efi
+   swapon /dev/<swap-partition>
+   ```
+# System Installation and Setup
+## Installation
+1. Download your base system with pacstrap. If you have an computer using an AMD chip, replace `intel-ucode` with `amd-ucode`. Replace `nano` with your terminal text editor of choice, if you would like.
+   ```bash
+   pacstrap -K /mnt base base-devel linux linux-firmware sof-firmware intel-ucode nano networkmanager grub efibootmgr
+   ```
+
+2. Generate your system fstab.
+   ```bash
+   genfstab /mnt > /mnt/etc/fstab
+   ```
+
+3. Change root into your system.
+   ```bash
+   arch-chroot /mnt
+   ```
+## Setup
+1. Set your timezone. List the timezones available with `timedatectl list-timezones`.
+   ```bash
+   ln -sf /usr/share/zoneinfo/<Area>/<Location> /etc/localtime
+   ```
+
+2. Sync system clock.
+   ```bash
+   hwclock --systohc
+   ```
+
+3. Use your text editor to uncomment the locale you want to use.
