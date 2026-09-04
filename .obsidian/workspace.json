@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Arch Linux Install Tutorial.md",
+                "file": "Chemistry/Unit 1 - What is Chemistry/Introduction to Chemistry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arch Linux Install Tutorial"
+              "title": "Introduction to Chemistry"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/Arch Linux Install Tutorial.md",
+                "file": "Chemistry/Unit 1 - What is Chemistry/Introduction to Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,17 +191,17 @@
   "active": "cee7bd3fffcd6e24",
   "lastOpenFiles": [
     "Chemistry/Unit 2 - The Numerical Side of Chemistry/Rules for Significant Figures.md",
+    "Chemistry/Unit 2 - The Numerical Side of Chemistry/The Numerical Side of Chemistry.md",
+    "Chemistry/Unit 2 - The Numerical Side of Chemistry/Metric Mania.md",
+    "AP Computer Science/Karel Basic Syntax And Functions.md",
     "Other/Arch Linux Install Tutorial.md",
     "Other",
     "Chemistry/Unit 1 - What is Chemistry/Introduction to Chemistry.md",
-    "Chemistry/Unit 2 - The Numerical Side of Chemistry/The Numerical Side of Chemistry.md",
-    "Chemistry/Unit 2 - The Numerical Side of Chemistry/Metric Mania (Conversion Practice).md",
     "What Are The Symbols For The Elements?.md",
     "Untitled.base",
     "Chemistry/Unit 2 - The Numerical Side of Chemistry",
     "Chemistry/Unit 1 - What is Chemistry",
     "AP US Gov and Politics/Early United States.md",
-    "AP Computer Science/APCSP Directory Tree.md",
     "AP US Gov and Politics",
     "AP Computer Science",
     "Chemistry"
