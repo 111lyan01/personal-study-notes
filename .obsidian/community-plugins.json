@@ -1,4 +1,8 @@
 [
   "obsidian-git",
+<<<<<<< HEAD
   "obsidian-discordrpc"
+=======
+  "shiki-highlighter"
+>>>>>>> origin/main
 ]

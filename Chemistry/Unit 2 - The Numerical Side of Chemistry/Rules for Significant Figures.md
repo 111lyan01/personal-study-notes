@@ -18,6 +18,7 @@
 
 ## Mathematical Operations
 * **Multiplication and Division:** Number of digits in the least precise measurement equal number of sig figs
+
 >[!NOTE] Examples
 >```
 >Number                     Count
@@ -28,4 +29,16 @@
 >1818.2 * 3.23              3
 >1.030 / 2.87               3
 >```
-* 
+
+* **Addition and Subtraction:** Number of decimal points in the least precise measurement equals number of decimal places in your result.
+
+>[!NOTE] Examples
+>```
+>Number                     Count
+>3.24 + 7.0                 3
+>100.0 - 23.73              3
+>0.02 + 2.371               1
+>713.1 - 3.872              4
+>1818.2 + 3.37              3
+>2.030 - 1.870              3
+>```
