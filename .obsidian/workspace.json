@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Arch Linux Install Tutorial.md",
+                "file": "Chemistry/Unit 1 - What is Chemistry/Introduction to Chemistry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arch Linux Install Tutorial"
-            }
-          },
-          {
-            "id": "f89ee107752e9717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Introduction to Chemistry"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Chemistry/Unit 1 - What is Chemistry/Introduction to Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f89ee107752e9717",
+  "active": "cee7bd3fffcd6e24",
   "lastOpenFiles": [
     "Other/Arch Linux Install Tutorial.md",
     "conflict-files-obsidian-git.md",
