@@ -43,4 +43,27 @@ Verbs that change their endings in all forms but nosotros and vosotros form. Mod
 >pides    pedís
 >pide     piden
 >```
-## Irregular yo
+## Irregular Yo
+
+| Unconjugated  | Yo    | Tú    | Ud   | Nos     | Vos    | Uds   |
+| ------------- | ----- | ----- | ---- | ------- | ------ | ----- |
+| ser           | soy   | eres  | es   | somos   | sois   | son   |
+| estar         | estoy | estás | está | estamos | estáis | están |
+| ir            | voy   | vas   | va   | vamos   | vais   | van   |
+| rénir/sonréir | río   | ríes  | ríe  | reímos  | reís   | ríen  |
+| oír           | oígo  | oyes  | oye  | oímos   | oís    | oyen  |
+**Extended Vocabulary**
+* Caigo
+* Conozco
+* Digo
+* Doy
+* Hago
+* Pongo
+* Salgo
+* Vengo
+* Veo
+* Tengo
+* Traigo
+* Se
+* Voy
+* Quepo
