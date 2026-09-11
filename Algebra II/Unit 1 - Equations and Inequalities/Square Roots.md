@@ -26,7 +26,7 @@ $\sqrt{400} = 20$
 
 >[!NOTE] Examples
 >$\sqrt{288}$
->$= \sqrt{2} * \sqrt{144}$
+>$= \sqrt{2} \times \sqrt{144}$
 >$\sqrt{144} \rightarrow 12$
 >$12 \sqrt{2}$
 
