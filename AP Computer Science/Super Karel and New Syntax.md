@@ -68,5 +68,9 @@ This code checks if there is a ball where Karel is standing on a ball, and if th
 ## While Loops
 While loops will repeat code endlessly as long as a condition is met. For example,
 ```js
-while 
+while(ballsPresent()) {
+	move();
+} 
 ```
+
+You can use all of these code syntax to create algorithms that preform actions based on the environment.

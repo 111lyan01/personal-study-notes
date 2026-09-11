@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Computer Science/Super Karel and New Syntax.md",
+                "file": "Algebra II/Unit 1 - Equations and Inequalities/Solving Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Super Karel and New Syntax"
+              "title": "Solving Equations"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Computer Science/Super Karel and New Syntax.md",
+                "file": "Algebra II/Unit 1 - Equations and Inequalities/Solving Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,11 +209,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2a6a9519eb4be833",
   "lastOpenFiles": [
+    "Algebra II/Unit 1 - Equations and Inequalities/Square Roots.md",
+    "AP Computer Science/Super Karel and New Syntax.md",
     "Chemistry/Unit 2 - The Numerical Side of Chemistry/Dimensional Analysis.md",
     "Chemistry/Unit 2 - The Numerical Side of Chemistry/Density.md",
     "Chemistry/Unit 2 - The Numerical Side of Chemistry/Metric Mania.md",
@@ -225,8 +228,6 @@
     "AP Seminar/Notes.md",
     "AP Seminar/Grammar/Nouns.md",
     "AP Computer Science/Karel Basic Syntax And Functions.md",
-    "AP Computer Science/Super Karel and New Syntax.md",
-    "Algebra II/Unit 1 - Equations and Inequalities/Square Roots.md",
     "Algebra II/Unit 1 - Equations and Inequalities/Solving Equations.md",
     "Algebra II/Unit 1 - Equations and Inequalities/Real Numbers.md",
     "Algebra II/Unit 1 - Equations and Inequalities/Order of Operations.md",
