@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra II/Unit 1 - Equations and Inequalities/Solving Equations.md",
+                "file": "Algebra II/Unit 1 - Equations and Inequalities/Word Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solving Equations"
+              "title": "Word Problems"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra II/Unit 1 - Equations and Inequalities/Solving Equations.md",
+                "file": "Algebra II/Unit 1 - Equations and Inequalities/Word Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,19 +203,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
   "active": "2a6a9519eb4be833",
   "lastOpenFiles": [
     "Algebra II/Unit 1 - Equations and Inequalities/Square Roots.md",
+    "Algebra II/Unit 1 - Equations and Inequalities/Word Problems.md",
+    "Algebra II/Unit 1 - Equations and Inequalities/Solving Equations.md",
     "AP Computer Science/Super Karel and New Syntax.md",
     "Chemistry/Unit 2 - The Numerical Side of Chemistry/Dimensional Analysis.md",
     "Chemistry/Unit 2 - The Numerical Side of Chemistry/Density.md",
@@ -228,7 +230,6 @@
     "AP Seminar/Notes.md",
     "AP Seminar/Grammar/Nouns.md",
     "AP Computer Science/Karel Basic Syntax And Functions.md",
-    "Algebra II/Unit 1 - Equations and Inequalities/Solving Equations.md",
     "Algebra II/Unit 1 - Equations and Inequalities/Real Numbers.md",
     "Algebra II/Unit 1 - Equations and Inequalities/Order of Operations.md",
     "Chemistry/Unit 2 - The Numerical Side of Chemistry/Rules for Significant Figures.md",
@@ -248,7 +249,6 @@
     "AP Seminar",
     "AP Computer Science/Super Karel and Loops.md",
     "Other",
-    "What Are The Symbols For The Elements?.md",
     "Untitled.base",
     "Chemistry/Unit 2 - The Numerical Side of Chemistry"
   ]
