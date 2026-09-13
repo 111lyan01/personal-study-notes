@@ -23,4 +23,4 @@
 # Republicanism
 * After Americans won their independence from the Treaty of Paris, some wanted a strong central government
 * **Republicans**, a forming group were against strong central government and opposed monarchy, executive, and authority.
-* Republicanism influenced the early colonies into states holding most unchecked power
+* Republicanism influenced the early colonies into states holding most unchecked power\
