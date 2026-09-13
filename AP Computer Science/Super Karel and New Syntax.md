@@ -64,4 +64,13 @@ function checkBall() {
 }
 ```
 
-This code checks if there is a ball where Karel is standing, and if there is one, it will take a ball. But if the check indicates that there is not a ball where Karel is standing, it will put a ball down.
+This code checks if there is a ball where Karel is standing on a ball, and if there is one, it will take a ball. But if the check indicates that there is not a ball where Karel is standing, it will put a ball down.
+## While Loops
+While loops will repeat code endlessly as long as a condition is met. For example,
+```js
+while(ballsPresent()) {
+	move();
+} 
+```
+
+You can use all of these code syntax to create algorithms that preform actions based on the environment.

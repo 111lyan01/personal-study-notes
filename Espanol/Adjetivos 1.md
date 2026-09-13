@@ -1,0 +1,22 @@
+
+| Español    | Íngles        |
+| ---------- | ------------- |
+| cruel      | cruel         |
+| compasiva  | compassionate |
+| paciente   | patient       |
+| impaciente | impatient     |
+| fiel       | loyal         |
+| mentiroso  | disloyal      |
+| fuerte     | strong        |
+| débil      | weak          |
+| tímida     | timid         |
+| validente  | brave         |
+| generosa   | generous      |
+| egoísta    | selfish       |
+| abiciosa   | ambitious     |
+| justa      | just          |
+| lista      | clever        |
+| benévola   | benevolent    |
+| astuta     | astute        |
+| atrevido   | fearless      |
+| orgulloso  | arrogant      |
