@@ -22,4 +22,9 @@
 >$x$
 >$x+2$
 >So it wants the sum of the smallest integer ($x-2$), plus the median ($x$) to be 20 more the than largest integer ($x+2$). This can be expressed as:
->$$(x-2)+2x=(x+2)+20$$
+>$$x-2+2x=x+2+20$$
+>$3x-2=x+22$
+>$3x=x+24$
+>$2x=24$
+>$x = 12$
+

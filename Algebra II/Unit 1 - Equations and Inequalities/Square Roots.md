@@ -20,7 +20,7 @@ $\sqrt{324} = 18$
 $\sqrt{361} = 19$
 $\sqrt{400} = 20$
 ## Simplifying Radicals
-1. Find the largest perfect square of the number
+1. Find the **largest** perfect square of the number
 2. Square root the perfect square, taking out the radical
 3. Leave the rest under the radical.
 
