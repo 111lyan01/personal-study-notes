@@ -13,7 +13,7 @@ The US is a mix of authority from states, the nation, and local cities. Oftentim
 # A Practical Constitutional Solution
 People wanting a strong central government clashed with those wanting more state rights, resulting in the many compromises of the Constitution. People realized that a unitary system of government, even if unopposed, would not work at the scales of the colonies. Federalism does not have this problem since each level can work more independently and closer to the people
 ## Benefits for the United States
-Federalism allowed for many things. State governments were training groups for future national leaders and policies to prove themselves and become national.
+Federalism allowed for many things. State governments could be used as training groups for future national leaders and policies to prove themselves and become national.
 ## Allowance for Many Political Subcultures
 America has many subcultures divided on  the lines of race, ethnic origin, region, wealth, education, etc. The diversity of these subcultures were seen a challenge where Madison argued that a Federal government would protect people from the power of unjust majority of national government.
 
