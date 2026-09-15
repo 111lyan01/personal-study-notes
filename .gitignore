@@ -3,4 +3,5 @@
 /.obsidian/community-plugins.json
 /.obsidian/plugins/themed-discord-rpc
 /.obsidian/plugins/tasknotes
-/.obsidian/TaskNotes
+/TaskNotes
+/Personal
