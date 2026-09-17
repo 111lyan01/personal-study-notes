@@ -26,7 +26,7 @@ If "and" is shown in the equation, solve separately. If it's more like $\mathtt{
 >[!WARNING] Special Cases
 >If the equation is a "and" equation and the number line is like
 >```
-><-----------o              o--------------------->
+><-----------o              o---------------------->
 ><=================================================>
 >```
 >The interval notation is $\varnothing$
@@ -62,3 +62,4 @@ If "and" is shown in the equation, solve separately. If it's more like $\mathtt{
 ><=================================================>
 >```
 >The interval notation is $(-\infty, \infty)$
+
