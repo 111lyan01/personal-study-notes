@@ -25,6 +25,7 @@
 	~={purple}Vocabulary=~
 		Vocab 1
 		Vocab 2
+		Vocab 3
 	~={orange}Essays=~
 
 ~={red}AP US Gov and Politics [OUTDATED]=~

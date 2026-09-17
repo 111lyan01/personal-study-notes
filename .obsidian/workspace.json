@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Note Tracker.md",
+                "file": "AP US Gov and Politics/The Constitution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note Tracker"
+              "title": "The Constitution"
             }
           },
           {
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/Note Tracker.md",
+                "file": "AP US Gov and Politics/The Constitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -211,6 +211,17 @@
   },
   "active": "cee7bd3fffcd6e24",
   "lastOpenFiles": [
+    "Chemistry/Unit 3 Atomic Theory/Atomic Structure.md",
+    "AP US Gov and Politics/The Constitution.md",
+    "AP US Gov and Politics/One Republic, Two Americas?.md",
+    "Chemistry/Unit 3 Atomic Theory",
+    "Other/Note Tracker.md",
+    "Algebra II/Unit 1 - Equations and Inequalities/Inequalities.md",
+    "TaskNotes/Views/agenda-default.base",
+    "Algebra II/Unit 1 - Equations and Inequalities/Compound Inequalities.md",
+    "Algebra II/Unit 1 - Equations and Inequalities/Absolute Value Equations.md",
+    "Algebra II/Unit 1 - Equations and Inequalities/Absolute Value Inequalities.md",
+    "Algebra II/Unit 1 - Equations and Inequalities/Word Problems.md",
     "AP Seminar/Grammar/Pronouns.md",
     "AP Seminar/Grammar/Transitive and Intransitive Verbs.md",
     "AP Seminar/Essays.md",
@@ -219,10 +230,6 @@
     "AP Seminar/Grammar/Nouns.md",
     "AP Seminar/Vocabulary/Vocabulary 3.md",
     "AP Seminar/Vocabulary/Vocabulary 2.md",
-    "Algebra II/Unit 1 - Equations and Inequalities/Absolute Value Equations.md",
-    "Other/Note Tracker.md",
-    "Algebra II/Unit 1 - Equations and Inequalities/Word Problems.md",
-    "TaskNotes/Views/agenda-default.base",
     "Chemistry/Unit 1 - What is Chemistry/Introduction to Chemistry.md",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Tasks/Chemistry Packet.md",
@@ -234,18 +241,11 @@
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views",
-    "TaskNotes",
     "Chemistry/Unit 2 - The Numerical Side of Chemistry/Metric Mania.md",
     "Personal/Update Tracker.md",
     "TaskNotes/Tasks/NYT v. US Project.md",
     "TaskNotes/Tasks/Violin Practice.md",
     "TaskNotes/Tasks/some stuff.md",
-    "2026-09-15.md",
-    "TaskNotes/Start Here.md",
-    "Personal/Untitled.md",
-    "Espanol/Verbos 1.md",
-    "Espanol/Ser y Estar.md",
-    "Espanol/El Tiempo Presente.md",
-    "Espanol/Adjetivos 1.md"
+    "2026-09-15.md"
   ]
 }
