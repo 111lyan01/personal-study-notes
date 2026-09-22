@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Chemistry/Unit 3 Atomic Theory/Atomic Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Atomic Structure"
             }
           },
           {
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Chemistry/Unit 3 Atomic Theory/Atomic Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -211,6 +211,8 @@
   },
   "active": "cee7bd3fffcd6e24",
   "lastOpenFiles": [
+    "README.md",
+    "Other/Arch Linux Install Tutorial.md",
     "Chemistry/Unit 3 Atomic Theory/Average Atomic Mass.md",
     "Chemistry/Unit 3 Atomic Theory/Atomic Structure.md",
     "Algebra II/Unit 1 - Equations and Inequalities/Inequalities.md",
@@ -244,8 +246,6 @@
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views",
     "Chemistry/Unit 2 - The Numerical Side of Chemistry/Metric Mania.md",
-    "Personal/Update Tracker.md",
-    "TaskNotes/Tasks/NYT v. US Project.md",
-    "TaskNotes/Tasks/Violin Practice.md"
+    "Personal/Update Tracker.md"
   ]
 }
