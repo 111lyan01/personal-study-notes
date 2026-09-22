@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP US Gov and Politics/The Constitution.md",
+                "file": "Chemistry/Unit 3 Atomic Theory/Average Atomic Mass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Constitution"
+              "title": "Average Atomic Mass"
             }
           },
           {
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP US Gov and Politics/The Constitution.md",
+                "file": "Chemistry/Unit 3 Atomic Theory/Average Atomic Mass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -212,11 +212,13 @@
   "active": "cee7bd3fffcd6e24",
   "lastOpenFiles": [
     "Chemistry/Unit 3 Atomic Theory/Atomic Structure.md",
+    "Chemistry/Unit 3 Atomic Theory/Average Atomic Mass.md",
+    "Algebra II/Unit 1 - Equations and Inequalities/Inequalities.md",
+    "AP US Gov and Politics/Defining Early Constitutional Powers.md",
     "AP US Gov and Politics/The Constitution.md",
     "AP US Gov and Politics/One Republic, Two Americas?.md",
     "Chemistry/Unit 3 Atomic Theory",
     "Other/Note Tracker.md",
-    "Algebra II/Unit 1 - Equations and Inequalities/Inequalities.md",
     "TaskNotes/Views/agenda-default.base",
     "Algebra II/Unit 1 - Equations and Inequalities/Compound Inequalities.md",
     "Algebra II/Unit 1 - Equations and Inequalities/Absolute Value Equations.md",
@@ -244,8 +246,6 @@
     "Chemistry/Unit 2 - The Numerical Side of Chemistry/Metric Mania.md",
     "Personal/Update Tracker.md",
     "TaskNotes/Tasks/NYT v. US Project.md",
-    "TaskNotes/Tasks/Violin Practice.md",
-    "TaskNotes/Tasks/some stuff.md",
-    "2026-09-15.md"
+    "TaskNotes/Tasks/Violin Practice.md"
   ]
 }

@@ -26,5 +26,17 @@ Very few were greatly deflected
 **The nucleus is small.**
 **The nucleus is dense.**
 **The nucleus is positively charged**
-
 ## Atomic Number
+Number of protons in the nucleus
+## Mass number
+Protons + neutrons
+## Charge and Mass
+
+| Particle | Charge | Mass |
+| -------- | ------ | ---- |
+| Electron | -1     | 0    |
+| Proton   | +1     | 1    |
+| Neutron  | 0      | 1    |
+Charged atoms of molecules are ions
+## Isotopes
+Atoms of an element having varying masses due to neutron count

@@ -12,9 +12,9 @@ The supremacy clause puts all the laws of the national government over laws from
 To prevent the government from having too much power, three branches of government were created and each branch of government has the ability to check on the actions of others. The separation of powers acted as **horizontal control** where branches of government on the same level can check one another, while the shared powers of federalism allowed for **vertical control** involving power-sharing relations between national and state governments.
 ## Interstate Relations
 The states have constant interactions among each other. The US Constitution contains rules that prevent a single state from setting itself apart from other states. There are three important clauses:
-1. Give full faith and credit to every other states's public acts, records, and judical proceedings
-2. Extend to every other states's citizens the privledges and immunities of its own citizens
-3. Agree to return persons who are fleeing in another staet back to their home state upon request.
+1. Give full faith and credit to every other states's public acts, records, and judicial proceedings
+2. Extend to every other states's citizens the privileges and immunities of its own citizens
+3. Agree to return persons who are fleeing in another state back to their home state upon request.
 The **full faith and credit** clause establishes that civil matters such as deeds, wills, contracts, etc are honored across the states.
 The **privileges and immunities** clause determines that states have to protect and maintain the same treatment of people that are out of state as people that are in state.
 When someone flees from one state into another, the governor of the state the person fled to can **extradite** them back to their home state to be tried. **Interstate compacts** (or contracts to work together), on Congress approval (which is only really done when the compact can give states more power compared to other states or the federal government), can also be agreed upon by states to work together on challenges that cross state boundaries. 
