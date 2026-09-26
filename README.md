@@ -1,5 +1,7 @@
 # Personal Study Notes
 My personal study notes for everything I'm learning from 10th grade and beyond.
+>[!WARNING]
+> Notes are constantly updating! I'm not sure whether to set releases so just about every day new content is being added!
 
 ## To View As Intended
 ### Download ZIP
