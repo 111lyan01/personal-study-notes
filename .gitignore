@@ -1,6 +1,3 @@
 
-/.obsidian/plugins
-/.obsidian/community-plugins.json
-/.obsidian/plugins/themed-discord-rpc
-/.obsidian/plugins/tasknotes
-/TaskNotes
+.obsidian/plugins/
+.obsidian/community-plugins.json
