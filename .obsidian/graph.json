@@ -25,28 +25,28 @@
       "query": "path:\"AP Seminar\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 13346551
       }
     },
     {
       "query": "path:\"AP US Gov and Politics\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 16429959
       }
     },
     {
       "query": "path:Chemistry  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 9024762
       }
     },
     {
       "query": "path:Espanol  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 16376477
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4874488067212828,
+  "scale": 0.45147164002711687,
   "close": false
 }
