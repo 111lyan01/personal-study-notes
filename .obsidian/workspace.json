@@ -8,49 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cee7bd3fffcd6e24",
+            "id": "9d222765f4093197",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Unit 3 Atomic Theory/Atomic Structure.md",
+                "file": "Chemistry/Unit 3 Atomic Theory/Calculate Molar Mass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atomic Structure"
+              "title": "Calculate Molar Mass"
             }
           },
           {
-            "id": "2a6a9519eb4be833",
+            "id": "dc9f00f7c0c2c7df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra II/Unit 2 - Linear Functions/Relations and Functions.md",
+                "file": "Chemistry/Unit 3 Atomic Theory/Periodic Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relations and Functions"
-            }
-          },
-          {
-            "id": "110939300ed11adb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra II/Unit 2 - Linear Functions/Unit 2 - Linear Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit 2 - Linear Functions"
+              "title": "Periodic Table"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra II/Unit 2 - Linear Functions/Unit 2 - Linear Functions.md",
+                "file": "Chemistry/Unit 3 Atomic Theory/Calculate Molar Mass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -217,11 +202,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "110939300ed11adb",
+  "active": "9d222765f4093197",
   "lastOpenFiles": [
-    "Algebra II/Unit 1 - Equations and Inequalities/Unit 1 - Equations and Inequalities.md",
-    "Algebra II/Unit 2 - Linear Functions/Unit 2 - Linear Functions.md",
+    "Chemistry/Unit 3 Atomic Theory/Periodic Table.md",
+    "Chemistry/Unit 3 Atomic Theory/Calculate Molar Mass.md",
+    "Chemistry/Unit 3 Atomic Theory/Average Atomic Mass.md",
+    "Chemistry/Unit 3 Atomic Theory/Calculating Average Atomic Mass.md",
+    "Chemistry/Unit 3 Atomic Theory/Isotope Notation.md",
+    "Chemistry/Unit 3 Atomic Theory/Common Polyatomic Ions.md",
+    "AP Computer Science/Unit 2 - Programming With JavaScript/Variables.md",
+    "AP Computer Science/Unit 2 - Programming With JavaScript/Println.md",
     "Algebra II/Unit 2 - Linear Functions/Relations and Functions.md",
+    "Chemistry/Unit 3 Atomic Theory/Atomic Structure.md",
+    "AP US Gov and Politics/Early United States.md",
+    "AP Computer Science/Unit 2 - Programming With JavaScript",
+    "AP US Gov and Politics/Elections.md",
+    "AP US Gov and Politics/Defining Early Constitutional Powers.md",
+    "Algebra II/Unit 2 - Linear Functions/Function Notation and Evaluation.md",
+    "Images/Pasted image 20260928133056.png",
+    "Images/Pasted image 20260928132547.png",
+    "Images/Pasted image 20260928132815.png",
+    "Images",
+    "Other/Other.md",
+    "Images/Pasted image 20260928133004.png",
+    "Images/Pasted image 20260928132929.png",
+    "Algebra II/Unit 1 - Equations and Inequalities/Inequalities.md",
+    "AP US Gov and Politics/Federalism/Federalism.md",
+    "AP US Gov and Politics/Federalism",
+    "Espanol/Ser y Estar.md",
+    "Algebra II/Unit 2 - Linear Functions/Unit 2 - Linear Functions.md",
+    "Algebra II/Unit 1 - Equations and Inequalities/Unit 1 - Equations and Inequalities.md",
     "AP Seminar/Grammar/Grammar.md",
     "Untitled.base",
     "TaskNotes/Tasks/Chemistry Packet.md",
@@ -229,31 +239,11 @@
     "AP Seminar/Grammar/Adjectives.md",
     "AP Seminar/Grammar/Action Verbs and Linking Verbs.md",
     "AP Seminar/Vocabulary/Vocabulary 3.md",
-    "AP Seminar/Vocabulary/Vocabulary 4.md",
-    "Algebra II/Algebra II.md",
-    "AP Seminar/Essays.md",
-    "AP Seminar/AP Seminar.md",
-    "AP Seminar/Vocabulary/Vocabulary.md",
-    "AP Seminar/Grammar/Nouns.md",
-    "Other/Other.md",
-    "Navigator.md",
-    "Espanol/Español.md",
-    "Chemistry/Unit 1 - What is Chemistry/Unit 1 - What is Chemistry.md",
-    "Chemistry/Chemistry.md",
-    "Chemistry/Unit 3 Atomic Theory/Unit 3 - Atomic Theory.md",
-    "Chemistry/Unit 2 - The Numerical Side of Chemistry/Unit 2 - The Numerical Side of Chemistry.md",
-    "AP US Gov and Politics/AP US Government and Politics.md",
-    "AP Computer Science/AP Computer Science.md",
-    "AP Seminar/Vocabulary/Vocabulary 2.md",
-    "AP Computer Science/Unit 1 - Intro to Programming/Unit 1 - Intro to Programming.md",
     "Algebra II/Unit 2 - Linear Functions",
     "TaskNotes/Views/agenda-default.base",
     "Chemistry/Unit 3 Atomic Theory",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Tasks",
-    "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/relationships.base",
-    "TaskNotes/Views/pomodoro-stats.base",
-    "TaskNotes/Views/calendar-default.base"
+    "TaskNotes/Views/kanban-default.base"
   ]
 }

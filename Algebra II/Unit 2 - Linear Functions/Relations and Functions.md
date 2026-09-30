@@ -21,9 +21,11 @@ Functions are relations in which each element of the domain is paired with one e
 >R: $-9, -5, -2, 3$
 >
 >```
->| x | 7 | 2 | 0 | -4|
->|---|---|---|---|---|
->| y | -8| 3 | -1| 3 |
+>┌───┬───┬───┬───┬───┐
+>│ x │ 7 │ 2 │ 0 │ -4│ 
+>├───┼───┼───┼───┼───┤
+>│ y │ -8│ 3 │ -1│ 3 │
+>└───┴───┴───┴───┴───┘
 >```
 >D: $-4,0,2,7$
 >R: $-8,-1,3,3$
@@ -39,3 +41,21 @@ Functions are relations in which each element of the domain is paired with one e
 >```
 >D: $-4,-2,5,8$
 >R: $0,1,2,4$
+>
+>![[Pasted image 20260928132547.png|283]]
+>D: $\mathbb{R}$
+>R: $y \leq 3$
+>
+>![[Pasted image 20260928132815.png|283]]
+>D: $\mathbb{R}$
+>R: $\mathbb{R}$
+>
+>![[Pasted image 20260928132929.png|283]]
+>D: $\mathbb{R}$
+>R: $-7$
+>
+>![[Pasted image 20260928133056.png|283]]
+>D: $-1$
+>R: $\mathbb{R}$
+
+

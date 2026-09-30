@@ -27,7 +27,7 @@ Very few were greatly deflected
 **The nucleus is dense.**
 **The nucleus is positively charged**
 ## Atomic Number
-Number of protons in the nucleus
+Number of protons in the nucleus and electrons in the atom
 ## Mass number
 Protons + neutrons
 ## Charge and Mass
@@ -40,3 +40,21 @@ Protons + neutrons
 Charged atoms of molecules are ions
 ## Isotopes
 Atoms of an element having varying masses due to neutron count
+## Atomic Mass
+Total mass of an atom (protons + neutrons)
+
+>[!note] example
+>There's an element on the periodic table that looks like this
+>```
+>┌────────┐
+>│ 12     │
+>│   Mg   │
+>│   24   │
+>└────────┘
+>```
+>It has an atomic number of **12** and an atomic mass of **24**.
+>Since atomic mass = $protons+neutrons$, and the atomic number represents the number of protons and electrons, we can figure out the number of protons, neutrons, and electrons.
+>$protons=12$
+>$electrons=12$
+>$neutrons=24-12 \space \mathtt{>>} \space 12$
+
