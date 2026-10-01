@@ -25,7 +25,7 @@
 * Reapportionment is the allocation of seats in the house to each state
 * Redistricting is the redrawing of the boundaries of the congressional districts within states
 * The Supreme Court made the apportionment of state legislative districts a justifiable question. They invoked the 14th amendment to say that no state can deny any person the equal protect of the laws
-* The court held that both chambers of a state legislature must be apportioned so that all districts are equal in protection
+* The court held that both chambers of a state legislature must be apportioned so that all districts are equal in population
 * Later, the court applied "one person, one vote" to congressional districts
 ## Gerrymandering
 * The drawing of legislative district boundary lines in effort to gain a factional advantage

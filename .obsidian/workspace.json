@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Unit 3 Atomic Theory/Periodic Table.md",
+                "file": "Algebra II/Unit 2 - Linear Functions/Linear Relations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Periodic Table"
+              "title": "Linear Relations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Unit 3 Atomic Theory/Calculate Molar Mass.md",
+                "file": "Algebra II/Unit 2 - Linear Functions/Linear Relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -188,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.33203125
+    "width": 224.33203125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,12 +200,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "9d222765f4093197",
+  "active": "dc9f00f7c0c2c7df",
   "lastOpenFiles": [
+    "Algebra II/Unit 2 - Linear Functions/Function Notation and Evaluation.md",
+    "Algebra II/Unit 2 - Linear Functions/Linear Relations.md",
+    "Algebra II/Unit 2 - Linear Functions/Relations and Functions.md",
+    "AP US Gov and Politics/Elections.md",
+    "AP US Gov and Politics/Defining Early Constitutional Powers.md",
     "Chemistry/Unit 3 Atomic Theory/Periodic Table.md",
     "Chemistry/Unit 3 Atomic Theory/Calculate Molar Mass.md",
     "Chemistry/Unit 3 Atomic Theory/Average Atomic Mass.md",
@@ -212,13 +218,9 @@
     "Chemistry/Unit 3 Atomic Theory/Common Polyatomic Ions.md",
     "AP Computer Science/Unit 2 - Programming With JavaScript/Variables.md",
     "AP Computer Science/Unit 2 - Programming With JavaScript/Println.md",
-    "Algebra II/Unit 2 - Linear Functions/Relations and Functions.md",
     "Chemistry/Unit 3 Atomic Theory/Atomic Structure.md",
     "AP US Gov and Politics/Early United States.md",
     "AP Computer Science/Unit 2 - Programming With JavaScript",
-    "AP US Gov and Politics/Elections.md",
-    "AP US Gov and Politics/Defining Early Constitutional Powers.md",
-    "Algebra II/Unit 2 - Linear Functions/Function Notation and Evaluation.md",
     "Images/Pasted image 20260928133056.png",
     "Images/Pasted image 20260928132547.png",
     "Images/Pasted image 20260928132815.png",
@@ -238,7 +240,6 @@
     "AP Seminar/Grammar/Adverbs.md",
     "AP Seminar/Grammar/Adjectives.md",
     "AP Seminar/Grammar/Action Verbs and Linking Verbs.md",
-    "AP Seminar/Vocabulary/Vocabulary 3.md",
     "Algebra II/Unit 2 - Linear Functions",
     "TaskNotes/Views/agenda-default.base",
     "Chemistry/Unit 3 Atomic Theory",
