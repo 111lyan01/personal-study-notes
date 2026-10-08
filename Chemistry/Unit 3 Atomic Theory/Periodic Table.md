@@ -38,8 +38,6 @@ DT = Diatomic
 ====SPECIAL=====
 *1 = Diatomic + Liquid
 ```
-Periodic Table from [ascii.periodni.com](https://ascii.periodni.com/)
-
 ## Full Table
 
 >[!warning] NOTE:
