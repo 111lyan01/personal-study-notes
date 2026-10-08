@@ -40,8 +40,6 @@ EC = Electron Classification
 Liquids: Br  Hg
 Diatomic: H  N  F  O  I  Cl  Be
 ```
-Periodic Table from [ascii.periodni.com](https://ascii.periodni.com/)
-
 ## Full Table
 
 >[!warning] NOTE:
