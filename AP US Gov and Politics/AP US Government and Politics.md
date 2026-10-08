@@ -2,5 +2,5 @@
 [[Defining Early Constitutional Powers]]
 [[Early United States]]
 [[Federalism]]
-[[One Republic, Two Americas?]]
+[[Principals of Democracy]]
 [[The Constitution]]

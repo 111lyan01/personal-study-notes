@@ -18,10 +18,18 @@ $$5x-6y=12$$
 $$5x(-5x)-6y=(-5x)12 \Rightarrow -6y=-5x+12$$
 $$\frac{-6y=-5x+12}{-6} \Rightarrow y=\frac{5}{6}x-2$$
 ## Find X and Y Intercepts Example
-**Equation**
+### Slope Intercept Form
 $$y=-5x-4$$
 **Y Intercept**
 $$y=-5(0)-4 \Rightarrow y=-4$$
 **X Intercept**$$y(0)=-5x-4 \Rightarrow 0=-5x-4$$
 $$0=-5x(+5x)-4 \Rightarrow 5x=-4$$
 $$\frac{5x=-4}{5} \Rightarrow x=-\frac{4}{5}$$
+### Standard Form
+$$-5x-8y=-25$$
+**Y Intercept**
+$$-5(0)-8y=-25 \Rightarrow -8y=-25$$
+$$\frac{-8y=-25}{-8} \Rightarrow y=\frac{25}{8}$$
+**X Intercept**
+$$-5x-8(0)=-25 \Rightarrow -5x=-25$$
+$$\frac{-5x=-25}{-5} \Rightarrow x=5$$
