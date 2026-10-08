@@ -1,0 +1,3 @@
+If we want to find the molar mass of CH<sub>4</sub>, we need to establish how many of each element there is here. There is 1 carbon atom and 4 hydrogen atoms in this molecule. So find the atomic mass of carbon on the [[Periodic Table]], which is 12.011, and find the mass of hydrogen which is 1.008. Then add. Make sure to multiply the hydrogen because there are 4.
+$$12.011+1.008(4)=16.043$$
+The average atomic mass of CH<sub>4</sub> is 16.043.
