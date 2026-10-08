@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra II/Unit 1 - Equations and Inequalities/Compound Inequalities.md",
+                "file": "AP US Gov and Politics/Federalism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compound Inequalities"
-            }
-          },
-          {
-            "id": "c5d10d912ea3ceac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Federalism"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "AP US Gov and Politics/Federalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,11 +203,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5d10d912ea3ceac",
+  "active": "e17b0531de967440",
   "lastOpenFiles": [
+    "Other/Note Tracker.md",
     "Algebra II/Unit 1 - Equations and Inequalities/Compound Inequalities.md",
     "conflict-files-obsidian-git.md",
-    "Other/Note Tracker.md",
     "Algebra II/Unit 1 - Equations and Inequalities/Absolute Value Inequalities.md",
     "AP US Gov and Politics/Federalism.md",
     "AP Seminar/Vocabulary/Vocabulary 3.md",
