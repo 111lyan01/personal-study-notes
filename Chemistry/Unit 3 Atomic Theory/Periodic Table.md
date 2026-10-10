@@ -1,5 +1,4 @@
 ```python
-
 CH-> 1+  2+                                          3+  4+  3-  2-  1-  0
 CH->                                                     4-
 VE-> 1   2                                           3   4   5   6   7   8
@@ -28,10 +27,10 @@ P--┌────────────────────────�
 --5│  Aktinoidi**  Ac  Th  Pa  U   Np  Pu  Am  Cm  Bk  Cf  Es  Fm  Md  No  Lr │
    │                                                                       !D │
    └──────────────────────────────────────────────────────────────────────────┘
-|													  (18) Noble Gasses ^^^^
-|												      (17) Halogens ^^^^
-|   ^^^^ Alkaline Metals (1)
-|       ^^^^ Alkaline Earth Metals (2)
+(18) Noble Gasses                                                         ^^^^
+(17) Halogens                                                         ^^^^
+      ^^^^ Alkaline Metals (1)
+          ^^^^ Alkaline Earth Metals (2)
 ===KEY===
 SM = Semimetal     M = Metal     NM = Nonmetal
 CH = Common Charge
