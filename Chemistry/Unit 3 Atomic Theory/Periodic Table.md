@@ -1,36 +1,36 @@
 ```python
-
 CH-> 1+  2+                                          3+  4+  3-  2-  1-  0
 CH->                                                     4-
 VE-> 1   2                                           3   4   5   6   7   8
 EC↓
-SDP    ┌S(1)──┐ ┌D(5)─────────────────────────────────┐ ┌P(3)─────────────────┐
-↓↓↓┌──────────────────────────────────────────────────────────────────────────┐
-   │   1   2   3   4   5   6   7   8   9   10  11  12  13  14  15  16  17  18 │
+SDF    ┌S(1)──┐ ┌D(5)─────────────────────────────────┐ ┌P(3)─────────────────┐
+P--┌──────────────────────────────────────────────────────────────────────────┐
+↓↓↓│   1   2   3   4   5   6   7   8   9   10  11  12  13  14  15  16  17  18 │
    │                                                                          │
 1--│1  H                                             M  NM                 He │
-   │                                                 <- ->                    │
-2-2│2  Li  Be                                          B   C   N   O   F   Ne │
+   │                                                 <- ->                 !S │
+2--│2  Li  Be                                          B   C   N   O   F   Ne │
    │                                                   SM                     │
-3-3│3  Na  Mg                                          Al  Si  P   S   Cl  Ar │
+3--│3  Na  Mg                                          Al  Si  P   S   Cl  Ar │
    │                                                       SM                 │
-434│4  K   Ca  Sc  Ti  V   Cr  Mn  Fe  Co  Ni  Cu  Zn  Ga  Ge  As  Se  Br  Kr │
+43-│4  K   Ca  Sc  Ti  V   Cr  Mn  Fe  Co  Ni  Cu  Zn  Ga  Ge  As  Se  Br  Kr │
    │                                               2+      SM  SM             │
-545│5  Rb  Sr  Y   Zr  Nb  Mo  Tc  Ru  Rh  Pd  Ag  Cd  In  Sn  Sb  Te  I   Xe │
+54-│5  Rb  Sr  Y   Zr  Nb  Mo  Tc  Ru  Rh  Pd  Ag  Cd  In  Sn  Sb  Te  I   Xe │
    │                                           1+              SM  SM         │
-656│6  Cs  Ba  *   Hf  Ta  W   Re  Os  Ir  Pt  Au  Hg  Tl  Pb  Bi  Po  At  Rn │
+65-│6  Cs  Ba  *   Hf  Ta  W   Re  Os  Ir  Pt  Au  Hg  Tl  Pb  Bi  Po  At  Rn │
    │                                                               SM         │
-767│7  Fr  Ra  **  Rf  Db  Sg  Bh  Hs  Mt  Ds  Rg  Cn  Nh  Fl  Mc  Lv  Ts  Og │
-F  ├──────────────────────────────────────────────────────────────────────────┤
-↓ (7)                                                                         │
-4  │ Lantanoidi*   La  Ce  Pr  Nd  Pm  Sm  Eu  Gd  Tb  Dy  Ho  Er  Tm  Yb  Lu │
+76-│7  Fr  Ra  **  Rf  Db  Sg  Bh  Hs  Mt  Ds  Rg  Cn  Nh  Fl  Mc  Lv  Ts  Og │
+   ├─F (7)────────────────────────────────────────────────────────────────────┤
    │                                                                          │
-5  │  Aktinoidi**  Ac  Th  Pa  U   Np  Pu  Am  Cm  Bk  Cf  Es  Fm  Md  No  Lr │
+--4│ Lantanoidi*   La  Ce  Pr  Nd  Pm  Sm  Eu  Gd  Tb  Dy  Ho  Er  Tm  Yb  Lu │
+   │                                                                       !D │
+--5│  Aktinoidi**  Ac  Th  Pa  U   Np  Pu  Am  Cm  Bk  Cf  Es  Fm  Md  No  Lr │
+   │                                                                       !D │
    └──────────────────────────────────────────────────────────────────────────┘
-|													  (18) Noble Gasses ^^^^
-|												      (17) Halogens ^^^^
-|   ^^^^ Alkaline Metals (1)
-|       ^^^^ Alkaline Earth Metals (2)
+(18) Noble Gasses                                                         ^^^^
+(17) Halogens                                                         ^^^^
+      ^^^^ Alkaline Metals (1)
+          ^^^^ Alkaline Earth Metals (2)
 ===KEY===
 SM = Semimetal     M = Metal     NM = Nonmetal
 CH = Common Charge
