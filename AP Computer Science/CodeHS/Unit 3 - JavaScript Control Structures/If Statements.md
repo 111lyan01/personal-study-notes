@@ -22,7 +22,7 @@ Yes, you are a teenager.
 ```
 
 ## Else if
-Figure it out lmao its simple
+Can be used to have multiple commands chained to one if statement (best way I can describe it)
 ```js
 function start(){
 	var userWants = readLine("What meal do you want?");
