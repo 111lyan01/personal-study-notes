@@ -24,3 +24,12 @@ you dead  still dead  ow that hurts  you are fine  cant see it  plays your music
 > One cannot simultaneously determine both the position and momentum of an electron
 
 So you can't find where an electron is and where it is going at the same time.
+**Electron energy levels are** each possible distance from the nucleus. The number of electrons that can fit in a shell is determined by $2n^2$, where $n$ is the electron energy shell.
+**Electron orbitals** are orbital regions within energy levels where there is a chance of finding an electron. **Only 2 electrons can be contained in an orbital.**
+**Electron spin is** when two electrons are in the same orbital and they spin in opposite directions
+**The Pauli exclusion principle** determines that electrons have opposite spins in the same orbital.
+**Hund's rule states** electrons fill orbitals before being paired
+**The Aufbau princple states** electrons occupy the lowest energy level first
+**Atomic radius** is the size of the atom
+**Ionization energy** is the energy required to remove an electron form an atom
+**Electronegativity** is how much an atom in a compound attract electrons
