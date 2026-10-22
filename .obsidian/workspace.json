@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Unit 4 - Modern Model of the Atom/General Notes.md",
+                "file": "AP US Gov and Politics/Congress/Leadership in Congress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Notes"
+              "title": "Leadership in Congress"
             }
           }
         ],
@@ -220,16 +220,21 @@
   },
   "active": "eafb15c96a7da745",
   "lastOpenFiles": [
-    "Chemistry/Unit 4 - Modern Model of the Atom/Electron Configuration.md",
-    "Chemistry/Unit 4 - Modern Model of the Atom/General Notes.md",
-    "AP US Gov and Politics/Federalism/Federalism.md",
+    "AP US Gov and Politics/Congress/Organization of Congress.md",
+    "AP US Gov and Politics/Congress/Leadership in Congress.md",
+    "AP US Gov and Politics/The Political Spectrum.md",
+    "AP US Gov and Politics/Shaping the US Government/The Constitution.md",
+    "AP US Gov and Politics/Shaping the US Government/Principals of Democracy.md",
+    "AP US Gov and Politics/Shaping the US Government/Elections.md",
+    "AP US Gov and Politics/Shaping the US Government/Federalism.md",
     "AP US Gov and Politics/AP US Government and Politics.md",
+    "AP US Gov and Politics/Shaping the US Government/Early United States.md",
+    "AP US Gov and Politics/Congress",
+    "Chemistry/Unit 1 - What is Chemistry/Introduction to Chemistry.md",
+    "Chemistry/Unit 1 - What is Chemistry/Unit 1 - What is Chemistry.md",
+    "Chemistry/Unit 4 - Modern Model of the Atom/General Notes.md",
+    "Chemistry/Unit 4 - Modern Model of the Atom/Electron Configuration.md",
     "AP Seminar/Defining Early Constitutional Powers.md",
-    "AP US Gov and Politics/Early United States.md",
-    "AP US Gov and Politics/Elections.md",
-    "AP US Gov and Politics/Organization of Congress.md",
-    "AP US Gov and Politics/Principals of Democracy.md",
-    "AP US Gov and Politics/The Constitution.md",
     "AP Seminar/Vocabulary/Vocabulary 6.md",
     "AP Seminar/Grammar/Conjunctions.md",
     "AP Seminar/Grammar/Prepositional Phrases.md",
@@ -244,10 +249,6 @@
     "Algebra II/Unit 2 - Linear Functions/Linear Regression.md",
     "AP Computer Science/CodeHS/Unit 2 - Programming With JavaScript/User Input.md",
     "AP Computer Science/CodeHS/Unit 2 - Programming With JavaScript/Variables.md",
-    "AP Computer Science/CodeHS/Unit 3 - JavaScript Control Structures/Booleans.md",
-    "AP Computer Science/CodeHS/Unit 3 - JavaScript Control Structures/Logical Operators.md",
-    "Algebra II/Unit 2 - Linear Functions/Function Notation and Evaluation.md",
-    "Algebra II/Unit 2 - Linear Functions/Parallel and Perpendicular Lines.md",
     "AP Computer Science/CodeHS",
     "AP Computer Science/CodeHS/Unit 3 - JavaScript Control Structures",
     "Chemistry/Unit 4 - Modern Model of the Atom",
@@ -258,8 +259,7 @@
     "Images",
     "Images/Pasted image 20260928133004.png",
     "Images/Pasted image 20260928132929.png",
-    "AP US Gov and Politics/Federalism",
-    "Untitled.base",
-    "Algebra II/Unit 2 - Linear Functions"
+    "AP US Gov and Politics/Shaping the US Government",
+    "Untitled.base"
   ]
 }

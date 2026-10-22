@@ -14,7 +14,7 @@
 ↖                                                                              ↘
 <------------------------------------------------------------------------------>
 gamma ray   x rays     ultraviolet     visible      infared     microwave  radio
-you dead  still dead  ow that hurts  you are fine  cant see it  plays your music
+u dead  also dead  ouch  bacteria die  u fine  cant see it  your airpods use it
 ```
 **Energy transitions are** transitions from shell level 1 to 2, from 2 to 3, you get it. 
 `n1 -> n2 = energy absorbed, n2 -> n1 = energy emitted.`
@@ -27,7 +27,7 @@ So you can't find where an electron is and where it is going at the same time.
 **Electron energy levels are** each possible distance from the nucleus. The number of electrons that can fit in a shell is determined by $2n^2$, where $n$ is the electron energy shell.
 **Electron orbitals** are orbital regions within energy levels where there is a chance of finding an electron. **Only 2 electrons can be contained in an orbital.**
 **Electron spin is** when two electrons are in the same orbital and they spin in opposite directions
-**The Pauli exclusion principle** determines that electrons have opposite spins in the same orbital.
+**The Pauli exclusion principle** determines that electrons have opposite spins in the same orbital.`
 **Hund's rule states** electrons fill orbitals before being paired
 **The Aufbau princple states** electrons occupy the lowest energy level first
 **Atomic radius** is the size of the atom
