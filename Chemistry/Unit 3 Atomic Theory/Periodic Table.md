@@ -1,4 +1,7 @@
 ```python
+↑ Electron Affinity →    ↑ Ionization Energy →    ↑ Electronegativity →
+↓ Atomic Radius ←
+
 CH-> 1+  2+                                          3+  4+  3-  2-  1-  0
 CH->                                                     4-
 VE-> 1   2                                           3   4   5   6   7   8

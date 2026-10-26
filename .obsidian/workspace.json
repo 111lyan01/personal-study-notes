@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "a6cfea2e89e844bf",
+    "id": "07eb06d8f6f5b59a",
     "type": "split",
     "children": [
       {
-        "id": "91208545828931d1",
+        "id": "e846dd03e0eae285",
         "type": "tabs",
         "children": [
           {
-            "id": "cee7bd3fffcd6e24",
+            "id": "2add1f0047d15611",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Unit 3 Atomic Theory/Periodic Table.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Periodic Table"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "32e02c25f31c4fb6",
+    "id": "7e3a6b00fbb3e499",
     "type": "split",
     "children": [
       {
-        "id": "9975d043486ca241",
+        "id": "9ea5c7668eb97dc3",
         "type": "tabs",
         "children": [
           {
-            "id": "7567a3d42585d0ed",
+            "id": "a36ff654397851a9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +46,7 @@
             }
           },
           {
-            "id": "2f5e4ae1ca3b7b49",
+            "id": "0a6eab1594ab825e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +63,7 @@
             }
           },
           {
-            "id": "b349923fbbb84c16",
+            "id": "744bd5a939990fb4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,26 +82,25 @@
     "width": 300
   },
   "right": {
-    "id": "33b5d90829b7ce32",
+    "id": "46a5218c73a3cfcc",
     "type": "split",
     "children": [
       {
-        "id": "b833eddb4aca924a",
+        "id": "6e29abf44122dabf",
         "type": "tabs",
         "children": [
           {
-            "id": "228abb874559cde4",
+            "id": "cd56a2e04f7355c5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Unit 3 Atomic Theory/Periodic Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
@@ -113,12 +108,11 @@
             }
           },
           {
-            "id": "ce60d9bd7011afc8",
+            "id": "deddf4d039df5358",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/ACP Honors Chemistry Directory Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +121,7 @@
             }
           },
           {
-            "id": "fa3d522d04f02a8f",
+            "id": "eac99eab504a8e72",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +136,7 @@
             }
           },
           {
-            "id": "050a164b9c71b2a2",
+            "id": "258e0855a807328e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +150,11 @@
             }
           },
           {
-            "id": "dc2e7b60897de6b5",
+            "id": "d540c6483fecfa5a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/ACP Honors Chemistry Directory Tree.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -174,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.33203125
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,48 +182,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cee7bd3fffcd6e24",
-  "lastOpenFiles": [
-    "Algebra II/Unit 1 - Equations and Inequalities/Real Numbers.md",
-    "Chemistry/Unit 3 Atomic Theory/Periodic Table.md",
-    "AP US Gov and Politics/The Political Spectrum.md",
-    "AP US Gov and Politics/The Constitution.md",
-    "AP US Gov and Politics/AP US Government and Politics.md",
-    "Algebra II/Unit 2 - Linear Functions/Linear Regression.md",
-    "Algebra II/Unit 2 - Linear Functions/Parallel and Perpendicular Lines.md",
-    "Algebra II/Unit 2 - Linear Functions/Unit 2 - Linear Functions.md",
-    "Algebra II/Unit 2 - Linear Functions/Writing Linear Equations.md",
-    "AP Computer Science/CodeHS/Unit 3 - JavaScript Control Structures/If Statements.md",
-    "AP Computer Science/CodeHS/Unit 3 - JavaScript Control Structures/Logical Operators.md",
-    "Espanol/El Tiempo Presente.md",
-    "Espanol/Verbos 1.md",
-    "Espanol/Ser y Estar.md",
-    "Chemistry/Unit 4 - Modern Model of the Atom/Orbital Diagrams.md",
-    "Chemistry/Unit 3 Atomic Theory/Isotope Notation.md",
-    "Chemistry/Unit 4 - Modern Model of the Atom/Modern Model of the Atom Notes.md",
-    "Chemistry/Unit 3 Atomic Theory/Average Atomic Mass.md",
-    "Espanol/Pretérito y Imperfecto.md",
-    "conflict-files-obsidian-git.md",
-    "AP Seminar/Defining Early Constitutional Powers.md",
-    "AP Computer Science/CodeHS/Unit 3 - JavaScript Control Structures/Comparison Operators.md",
-    "AP Computer Science/CodeHS/Unit 3 - JavaScript Control Structures/Booleans.md",
-    "AP Computer Science/CodeHS/Unit 2 - Programming With JavaScript/Variables.md",
-    "AP Computer Science/CodeHS/Unit 2 - Programming With JavaScript/User Input.md",
-    "AP Computer Science/CodeHS/Unit 2 - Programming With JavaScript/Println.md",
-    "AP Computer Science/CodeHS/Unit 3 - JavaScript Control Structures",
-    "AP Computer Science/CodeHS/Unit 2 - Programming With JavaScript",
-    "AP Computer Science/CodeHS/Unit 1 - Intro to Programming",
-    "AP Computer Science/CodeHS",
-    "Chemistry/Unit 4 - Modern Model of the Atom",
-    "Images/Pasted image 20260928133056.png",
-    "Images/Pasted image 20260928133004.png",
-    "Images/Pasted image 20260928132929.png",
-    "Images/Pasted image 20260928132815.png",
-    "Images/Pasted image 20260928132547.png",
-    "Images",
-    "Chemistry/Unit 3 Atomic Theory",
-    "Algebra II/Unit 2 - Linear Functions",
-    "AP US Gov and Politics/Federalism",
-    "AP Computer Science/Unit 2 - Programming With JavaScript"
-  ]
+  "active": "2add1f0047d15611",
+  "lastOpenFiles": []
 }
