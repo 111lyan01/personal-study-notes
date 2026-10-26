@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e846dd03e0eae285",
+        "id": "5d62dfce62160b8d",
         "type": "tabs",
         "children": [
           {
-            "id": "2add1f0047d15611",
+            "id": "5b8ca5f3f42e57a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
         ]
@@ -186,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2add1f0047d15611",
+  "active": "5b8ca5f3f42e57a3",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Chemistry/Unit 4 - Modern Model of the Atom/General Notes.md",
