@@ -11,10 +11,14 @@
             "id": "2add1f0047d15611",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -183,5 +187,22 @@
     }
   },
   "active": "2add1f0047d15611",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Chemistry/Unit 4 - Modern Model of the Atom/General Notes.md",
+    "Algebra II/Unit 2 - Linear Functions/Systems of Equations.md",
+    "AP US Gov and Politics/Shaping the US Government/The Constitution.md",
+    "AP US Gov and Politics/Shaping the US Government/Principals of Democracy.md",
+    "AP US Gov and Politics/Shaping the US Government/Federalism.md",
+    "AP US Gov and Politics/Shaping the US Government/Elections.md",
+    "AP US Gov and Politics/Shaping the US Government/Early United States.md",
+    "AP US Gov and Politics/Shaping the US Government",
+    "AP US Gov and Politics/Congress/Organization of Congress.md",
+    "AP US Gov and Politics/Congress/Leadership in Congress.md",
+    "AP US Gov and Politics/Congress",
+    "AP Seminar/Vocabulary/Vocabulary 6.md",
+    "AP Seminar/Vocabulary/Vocabulary 5.md",
+    "AP Seminar/Grammar/Prepositional Phrases.md",
+    "AP Seminar/Grammar/Conjunctions.md"
+  ]
 }
