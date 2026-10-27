@@ -1,7 +1,8 @@
 {
   "cssTheme": "Tokyo Night",
   "theme": "obsidian",
-  "interfaceFontFamily": "Noto Sans",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "textFontFamily": "Noto Sans",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": []
 }

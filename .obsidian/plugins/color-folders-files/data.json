@@ -1,0 +1,36 @@
+{
+  "styles": {
+    "Algebra II": {
+      "textColor": "#f2cdcd",
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "AP Computer Science": {
+      "textColor": "#cba6f7",
+      "isBold": true
+    },
+    "AP Seminar": {
+      "textColor": "#f38ba8",
+      "isBold": true
+    },
+    "AP US Gov and Politics": {
+      "textColor": "#fab387",
+      "isBold": true
+    },
+    "Chemistry": {
+      "textColor": "#f9e2af",
+      "isBold": true
+    },
+    "Espanol": {
+      "textColor": "#a6e3a1",
+      "isBold": true
+    },
+    "Other": {
+      "textColor": "#94e2d5",
+      "isBold": true
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}

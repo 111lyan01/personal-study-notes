@@ -13,3 +13,9 @@ Elected by a caucus of the majority party to increase cohesion among party membe
 The minority leader of the house is the candidate nominated for speaker by a caucus of the minority party. The minority leader also consults with the speaker and majority leader on recognizing members who want to speak, house rules and procedure, and scheduling legislation, but they have no actual power in any of these.
 ## Whips
 Whips are members what assist the party leaders by passing information down from the leadership to party members and making sure members appear for floor debate and cast votes. They conduct polls, inform leaders on doubtful votes, and pressure members to support leaders' positions.
+# Senate Leadership
+The Senate's larger size makes it not as necessary to hold such formal and constricted leadership and procedure.
+## Ceremonial Leadership
+The **Vice President** is supposed to be able to vote to break ties, but is rarely present. Instead the **President Pro Tempore** presides in the absence of the Vice President.
+## Minority and Majority Leaders
+These are the actual leadership positions in the Senate. The Senate majority and minority leaders are the right to be recognized first in debate on the floor and hold similar powers to the house majority leaders
