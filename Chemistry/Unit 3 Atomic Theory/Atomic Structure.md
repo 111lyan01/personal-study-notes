@@ -7,7 +7,7 @@ A given compound always contains elements in exactly the same proportion by mass
 2. All atoms of an element are identical
 3. The atoms of an element are different from those of other elements
 4. Atoms of an element can combine with other elements to form compounds. A compound always has the same relative number and types of atoms
-5. Atoms of indivisible in chemical processes (~={red}modern atomic theory says that nuclear reactions CAN split, create, or destroy atoms=~)
+5. Atoms of indivisible in chemical processes (<span style="color:rgb(243, 139, 168)">modern atomic theory says that nuclear reactions CAN split, create, or destroy atoms</span>)
 ## Discovery of the Electron
 J.J Thomson used a cathode ray rube to deduce the presence of a negatively charged particle. Cathode ray tubes pass electricity through a gas that is contained at a very low pressure.
 ### Conclusions from the Study

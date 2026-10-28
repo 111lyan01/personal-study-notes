@@ -1,3 +1,4 @@
+#math #inequalities #equations 
 >[!WARNING] Graphing Inequalities not Included
 ## Interval Notation and Set Notation
 Use parenthesis for not including numbers, use brackets for included numbers in interval notation.

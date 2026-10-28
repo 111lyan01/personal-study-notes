@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP US Gov and Politics/Congress/Leadership in Congress.md",
+                "file": "AP US Gov and Politics/Congress/Government Spending.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leadership in Congress"
+              "title": "Government Spending"
+            }
+          },
+          {
+            "id": "3388340fdb39a14d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -188,32 +198,36 @@
   },
   "active": "5b8ca5f3f42e57a3",
   "lastOpenFiles": [
-    "Algebra II/Unit 1 - Equations and Inequalities/Compound Inequalities.md",
-    "AP Seminar/AP Seminar.md",
-    "AP Computer Science/CodeHS/Unit 1 - Intro to Programming/Karel Basic Syntax And Functions.md",
-    "Other/  Gallery/Pasted image 20260928132547.png",
-    "Other/Arch Linux Install Tutorial.md",
-    "Other/  Gallery/Pasted image 20260928133056.png",
-    "Other/  Gallery/Pasted image 20260928132815.png",
-    "AP Seminar/Grammar/Adverbs.md",
-    "AP US Gov and Politics/The Political Spectrum.md",
+    "AP US Gov and Politics/Congress/Deciding.md",
+    "AP US Gov and Politics/Congress/Government Spending.md",
+    "AP US Gov and Politics/Congress/How Bills Become Law.md",
     "AP US Gov and Politics/Congress/Organization of Congress.md",
-    "AP Seminar/Defining Early Constitutional Powers.md",
-    "AP US Gov and Politics/Congress/Leadership in Congress.md",
-    "AP US Gov and Politics/Shaping the US Government/Early United States.md",
-    "Algebra II/Unit 1 - Equations and Inequalities/Absolute Value Equations.md",
-    "conflict-files-obsidian-git.md",
-    "Chemistry/Unit 4 - Modern Model of the Atom/General Notes.md",
-    "Algebra II/Unit 2 - Linear Functions/Systems of Equations.md",
     "AP US Gov and Politics/Shaping the US Government/The Constitution.md",
     "AP US Gov and Politics/Shaping the US Government/Principals of Democracy.md",
     "AP US Gov and Politics/Shaping the US Government/Federalism.md",
-    "AP US Gov and Politics/Shaping the US Government/Elections.md",
-    "AP US Gov and Politics/Shaping the US Government",
-    "AP US Gov and Politics/Congress",
-    "AP Seminar/Vocabulary/Vocabulary 6.md",
-    "AP Seminar/Vocabulary/Vocabulary 5.md",
+    "AP US Gov and Politics/Shaping the US Government/Early United States.md",
+    "AP US Gov and Politics/Shaping the US Government/Defining Early Constitutional Powers.md",
+    "AP US Gov and Politics/Elections.md",
+    "AP US Gov and Politics/Congress/Leadership in Congress.md",
+    "Algebra II/Unit 1 - Equations and Inequalities/Absolute Value Equations.md",
+    "Algebra II/Unit 1 - Equations and Inequalities/Absolute Value Inequalities.md",
+    "Algebra II/Unit 1 - Equations and Inequalities/Compound Inequalities.md",
+    "Algebra II/Unit 1 - Equations and Inequalities/Order of Operations.md",
+    "Algebra II/Unit 1 - Equations and Inequalities/Inequalities.md",
+    "Chemistry/Unit 4 - Modern Model of the Atom/Modern Model of the Atom Notes.md",
+    "Chemistry/Unit 3 Atomic Theory/Atomic Structure.md",
+    "AP Seminar/Grammar/Adverbs.md",
     "AP Seminar/Grammar/Prepositional Phrases.md",
-    "AP Seminar/Grammar/Conjunctions.md"
+    "Algebra II/Unit 2 - Linear Functions/Relations and Functions.md",
+    "AP Computer Science/CodeHS/Unit 3 - JavaScript Control Structures/If Statements.md",
+    "Algebra II/Unit 2 - Linear Functions/Unit 2 - Linear Functions.md",
+    "Algebra II/Algebra II.md",
+    "AP Computer Science/CodeHS/Unit 2 - Programming With JavaScript/Variables.md",
+    "AP Computer Science/CodeHS/Unit 2 - Programming With JavaScript/Println.md",
+    "Other/Gallery/Pasted image 20260928132547.png",
+    "Other/Gallery/Pasted image 20260928133056.png",
+    "Other/Gallery/Pasted image 20260928132815.png",
+    "AP US Gov and Politics/Shaping the US Government",
+    "AP US Gov and Politics/Congress"
   ]
 }

@@ -8,27 +8,39 @@
     },
     "AP Computer Science": {
       "textColor": "#cba6f7",
-      "isBold": true
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true
     },
     "AP Seminar": {
       "textColor": "#f38ba8",
-      "isBold": true
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true
     },
     "AP US Gov and Politics": {
       "textColor": "#fab387",
-      "isBold": true
+      "isBold": true,
+      "applyToFiles": true,
+      "applyToSubfolders": true
     },
     "Chemistry": {
       "textColor": "#f9e2af",
-      "isBold": true
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true
     },
     "Espanol": {
       "textColor": "#a6e3a1",
-      "isBold": true
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true
     },
     "Other": {
       "textColor": "#94e2d5",
-      "isBold": true
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true
     }
   },
   "presets": {},

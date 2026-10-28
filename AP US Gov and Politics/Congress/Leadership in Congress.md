@@ -18,4 +18,9 @@ The Senate's larger size makes it not as necessary to hold such formal and const
 ## Ceremonial Leadership
 The **Vice President** is supposed to be able to vote to break ties, but is rarely present. Instead the **President Pro Tempore** presides in the absence of the Vice President.
 ## Minority and Majority Leaders
-These are the actual leadership positions in the Senate. The Senate majority and minority leaders are the right to be recognized first in debate on the floor and hold similar powers to the house majority leaders
+These are the actual leadership positions in the Senate. The Senate majority and minority leaders are the right to be recognized first in debate on the floor and hold similar powers to the house majority leaders. They are elected by their party caucuses.
+* Controls scheduling of debate on the floor
+* Participate in selecting members of conference committees
+* Mobilize support for partisan legislative initiatives/proposals of the president
+* Facilitate a smooth functioning Senate
+Senate party whips share similar traits and function to their House of Representatives counterparts as well.

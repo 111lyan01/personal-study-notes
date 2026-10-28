@@ -2,7 +2,9 @@
   "obsidian-git",
   "themed-discord-rpc",
   "obsidian-style-settings",
-  "style-text",
+  "fast-text-color",
+  "tasknotes",
   "color-folders-files",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "folders2graph"
 ]

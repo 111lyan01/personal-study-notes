@@ -1,0 +1,1 @@
+All bills about spending originate in the House of Representatives.
