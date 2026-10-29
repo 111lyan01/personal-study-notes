@@ -35,10 +35,10 @@
     "useInternalPlugins": false
   },
   "Algebra II": "LiFunctionSquare",
-  "AP Computer Science": "LiCode",
   "AP Seminar": "LiPencil",
   "AP US Gov and Politics": "LiLandmark",
   "Chemistry": "LiAtom",
   "Espanol": "LiLanguages",
-  "Other": "LiComponent"
+  "Other": "LiComponent",
+  "AP Computer Science": "LiCode"
 }
