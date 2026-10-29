@@ -3,44 +3,131 @@
     "Algebra II": {
       "textColor": "#f2cdcd",
       "isBold": true,
-      "applyToSubfolders": true,
-      "applyToFiles": true
+      "applyToSubfolders": false,
+      "applyToFiles": false
     },
     "AP Computer Science": {
       "textColor": "#cba6f7",
       "isBold": true,
-      "applyToSubfolders": true,
-      "applyToFiles": true
+      "applyToSubfolders": false,
+      "applyToFiles": false
     },
     "AP Seminar": {
       "textColor": "#f38ba8",
       "isBold": true,
-      "applyToSubfolders": true,
-      "applyToFiles": true
+      "applyToSubfolders": false,
+      "applyToFiles": false
     },
     "AP US Gov and Politics": {
       "textColor": "#fab387",
       "isBold": true,
-      "applyToFiles": true,
-      "applyToSubfolders": true
+      "applyToFiles": false,
+      "applyToSubfolders": false
     },
     "Chemistry": {
       "textColor": "#f9e2af",
       "isBold": true,
-      "applyToSubfolders": true,
-      "applyToFiles": true
+      "applyToSubfolders": false,
+      "applyToFiles": false
     },
     "Espanol": {
       "textColor": "#a6e3a1",
       "isBold": true,
-      "applyToSubfolders": true,
-      "applyToFiles": true
+      "applyToSubfolders": false,
+      "applyToFiles": false
     },
     "Other": {
       "textColor": "#94e2d5",
       "isBold": true,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "Algebra II/Unit 1 - Equations and Inequalities": {
+      "textColor": "#f5c2e7",
+      "applyToFiles": true,
+      "applyToSubfolders": true
+    },
+    "Algebra II/Unit 2 - Linear Functions": {
+      "textColor": "#cba6f7",
       "applyToSubfolders": true,
       "applyToFiles": true
+    },
+    "AP Computer Science/CodeHS": {
+      "textColor": "#f38ba8"
+    },
+    "AP Computer Science/CodeHS/Unit 1 - Intro to Programming": {
+      "textColor": "#eba0ac",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "AP Computer Science/CodeHS/Unit 2 - Programming With JavaScript": {
+      "textColor": "#fab387",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "AP Computer Science/CodeHS/Unit 3 - JavaScript Control Structures": {
+      "textColor": "#f9e2af",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "AP Seminar/Grammar": {
+      "textColor": "#eba0ac",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "AP Seminar/Vocabulary": {
+      "textColor": "#fab387",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "AP US Gov and Politics/Congress": {
+      "textColor": "#f9e2af",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "AP US Gov and Politics/Fundamentals of Politics": {
+      "textColor": "#a6e3a1",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "AP US Gov and Politics/Shaping the US Government": {
+      "textColor": "#94e2d5",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Chemistry/Unit 1 - What is Chemistry": {
+      "textColor": "#a6e3a1",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Chemistry/Unit 2 - The Numerical Side of Chemistry": {
+      "textColor": "#94e2d5",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Chemistry/Unit 3 Atomic Theory": {
+      "textColor": "#89dceb",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Chemistry/Unit 4 - Modern Model of the Atom": {
+      "textColor": "#74c7ec",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Espanol/Palabras": {
+      "textColor": "#94e2d5",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Espanol/Verbos": {
+      "textColor": "#89dceb",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "Chemistry/Unit 3 Atomic Theory/Periodic Table.md": {
+      "isBold": true,
+      "backgroundColor": "#2b4550"
     }
   },
   "presets": {},
