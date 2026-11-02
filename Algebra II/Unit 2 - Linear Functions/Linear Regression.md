@@ -2,4 +2,4 @@ To find linear regression on your calculator, enter your table values in `stat` 
 
 If you are using desmos, you can add a table with the `+` button, and fill out the table. On the next equation line, add $y_1 = mx_1 + b$.
 
-If you are using `qalculate!`, you can simply use 
+If you are using `qalculate!`, you can simply use `linearfit([x,val,ues],[y,val,ues])`

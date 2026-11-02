@@ -4,10 +4,10 @@ Believed that electrons orbit the nucleus similar to planets orbiting the sun
 ## Heisenberg Uncertainty Principle
 "One cannot simultaneously determine both the position and momentum of an electron"
 
-| You can find...  | But not...      |
-| ---------------- | --------------- |
-| Where it is      | Where its going |
-| Where it's going | Where it is     |
+| You can find...  | But not... at the same time |
+| ---------------- | --------------------------- |
+| Where it is      | Where its going             |
+| Where it's going | Where it is                 |
 ## Electron Energy Levels
 Each possible distance from the nucleus
 <span style="color:rgb(137, 180, 250)">n=electron shell</span>

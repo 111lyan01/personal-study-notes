@@ -1,6 +1,6 @@
 {
   "showFolderNodes": true,
-  "hideRootNode": false,
+  "hideRootNode": true,
   "nodeColor": "#5c8af5",
   "showHeadingNodes": false,
   "headingNodeColor": "#f5a55c",
